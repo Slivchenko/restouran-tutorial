@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ElizPery.github.io/project-mimino",
+  "homepage": "https://Slivchenko.github.io/restouran-tutorial",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-mimino/"
+    "build": "parcel build src/*.html --public-url /restouran-tutorial/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElizPery/project-mimino.git"
+    "url": "git+https://github.com/Slivchenko/restouran-tutorial.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
